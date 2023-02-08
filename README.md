@@ -4,5 +4,11 @@ for web security<br>
 应该还会写学习反思之类的。
 
 <br>
-<h2>notes</h2><br>
-<a href=https://github.com/66lueflam144/puwonday/blob/main/base.md>基础篇</a>
+
+### NOTES<br>
+<a href=https://github.com/66lueflam144/puwonday/blob/main/base.md>基础篇</a><br>
+
+----
+
+### READING<br>
+<a href=https://github.com/66lueflam144/puwonday/blob/main/readingdrinking.md>《白帽子讲web安全》的笔记</a>
