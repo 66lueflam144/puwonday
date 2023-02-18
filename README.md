@@ -7,6 +7,8 @@ for web security<br>
 
 ### NOTES<br>
 <a href=https://github.com/66lueflam144/puwonday/blob/main/base.md>基础篇</a><br>
+<a href=https://github.com/66lueflam144/puwonday/blob/main/JavaScript%E7%9B%B8%E5%85%B3/learnjs.md>javascript一些基础</a>
+
 
 ----
 
